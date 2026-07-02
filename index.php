@@ -9,5 +9,6 @@ include 'includes/header.php';
 
 <?php include 'includes/components/home-services.php'; ?>
 <?php include 'includes/components/home-projects.php'; ?>
+<?php include 'includes/components/industries.php'; ?>
 
 <?php include 'includes/footer.php'; ?>

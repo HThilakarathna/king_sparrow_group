@@ -19,10 +19,10 @@
                 <div class="sm:col-span-2 lg:col-span-1" data-aos="fade-up">
                     <a href="index.php" class="inline-flex items-center gap-3 mb-6 group">
                         <img src="logo.png" alt="King Sparrow Group Logo" class="h-14 w-auto transition-transform group-hover:scale-105">
-                        <span class="text-xl font-black tracking-tight text-white leading-[1.2]">King Sparrow <br><span class="text-brand-blue-light font-black text-base">Group</span></span>
+                        <span class="text-xl font-black tracking-tight text-white leading-[1.2]">King Sparrow <br><span class="text-brand-blue-light font-black text-base">Group of Companies</span></span>
                     </a>
                     <p class="text-sm text-gray-400 leading-relaxed mb-6 max-w-xs">
-                        We Design And Build Modern Digital Products That Help Businesses Grow.
+                        Engineering the Future of Digital Business.
                     </p>
                     <h5 class="text-white font-bold mb-4">Connect With Us</h5>
                     <div class="flex gap-3">
@@ -62,7 +62,7 @@
                     <ul class="space-y-4">
                         <li class="flex items-start gap-3">
                             <i data-lucide="mail" class="w-5 h-5 text-brand-gold shrink-0 mt-0.5"></i>
-                            <span class="text-gray-400 text-sm">Info@Kingsparrowgroups.com</span>
+                            <span class="text-gray-400 text-sm">info@kingsparrowgroups.com</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <i data-lucide="phone" class="w-5 h-5 text-brand-gold shrink-0 mt-0.5"></i>
@@ -79,7 +79,7 @@
             
             <!-- Bottom Copyright Bar -->
             <div class="pt-6 border-t border-gray-800 text-center">
-                <p class="text-gray-500 text-xs font-medium tracking-wide">&copy; Copyright KingSparrow Group Of Companies (PVT) LTD. All Rights Reserved</p>
+                <p class="text-gray-500 text-xs font-medium tracking-wide">&copy; Copyright King Sparrow Group of Companies (PVT) Ltd. All Rights Reserved</p>
             </div>
         </div>
     </footer>

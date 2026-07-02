@@ -11,19 +11,19 @@
                     <span class="text-xs font-bold tracking-widest text-gray-300 uppercase">Our Story</span>
                 </div>
                 
-                <h2 class="text-4xl md:text-5xl font-bold tracking-tight mb-8 leading-[1.2] text-gray-100">
-                    Born from a Passion for <span class="text-brand-blue">Engineering Excellence</span>
+                <h2 class="text-4xl md:text-5xl font-bold tracking-tight mb-8 leading-[1.2] text-gray-100 font-display">
+                    Engineering the Future of <br><span class="text-brand-blue-light">Digital Business</span>
                 </h2>
                 
                 <div class="space-y-6 text-gray-400 text-lg leading-relaxed max-w-xl">
                     <p>
-                        King Sparrow Group bridges the gap between complex business challenges and scalable software solutions. Founded in 2021 by visionary entrepreneur Mohammed Nowfar, we bring together deep expertise in software engineering, enterprise architecture, and modern technology under one roof.
+                        King Sparrow Group of Companies (PVT) Ltd. bridges the gap between complex business challenges and scalable software solutions. Founded in February 2022 by visionary entrepreneur Mohammed Nowfar, the company began its journey in Batticaloa, Eastern Province, Sri Lanka, with a clear mission: to empower businesses through innovative technology and world-class software solutions.
                     </p>
                     <p>
-                        We are engineering-driven at our core. Every architecture decision is guided by security, performance, and industry best practices, ensuring your digital products are not only robust but also capable of scaling effortlessly with your business growth.
+                        Today, King Sparrow Group is proud to be recognized as one of the leading software companies in the Batticaloa District and the Eastern Province, delivering high-quality software products and digital transformation solutions to businesses across Sri Lanka.
                     </p>
                     <p>
-                        We've redefined the software development lifecycle. We don't just write code; we become your dedicated technology partner. King Sparrow Group is a product-first tech company driven by technical excellence, clean architecture, and purpose in Sri Lanka's tech landscape.
+                        Our commitment to innovation, customer success, and engineering excellence has positioned us as a trusted technology partner for organizations seeking sustainable digital growth.
                     </p>
                 </div>
             </div>
@@ -31,12 +31,183 @@
             <div class="relative mt-12 lg:mt-0" data-aos="fade-left">
                 <!-- Image Container -->
                 <div class="relative bg-gradient-to-br from-[#111827] to-[#0B1120] rounded-[2.5rem] p-4 shadow-2xl border border-gray-800">
-                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Data Driven Illustration" class="w-full h-full object-cover rounded-[2rem] opacity-80 mix-blend-luminosity hover:mix-blend-normal transition-all duration-700">
+                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Engineering Team" class="w-full h-full object-cover rounded-[2rem] opacity-80 mix-blend-luminosity hover:mix-blend-normal transition-all duration-700">
                     
                     <div class="absolute -bottom-8 -right-4 md:-right-8 bg-[#111827] border border-gray-700 p-6 md:p-8 rounded-[2rem] shadow-2xl z-20">
-                        <div class="text-4xl md:text-5xl font-black text-white mb-1">100%</div>
-                        <div class="text-xs font-bold tracking-widest text-gray-400 uppercase">Data-Driven</div>
+                        <div class="text-4xl md:text-5xl font-black text-brand-gold mb-1">Feb 2022</div>
+                        <div class="text-xs font-bold tracking-widest text-gray-400 uppercase">Established</div>
                     </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Why Sparrow? (Philosophy) Section -->
+<section class="py-24 bg-[#050B14] relative border-b border-gray-800">
+    <div class="container-custom">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+            
+            <!-- Left badge and title -->
+            <div class="lg:col-span-5" data-aos="fade-right">
+                <div class="inline-block px-4 py-1.5 rounded-full border border-gray-700 bg-[#111827]/80 backdrop-blur-sm mb-6">
+                    <span class="text-xs font-bold tracking-widest text-brand-gold uppercase">Why Sparrow?</span>
+                </div>
+                <h2 class="text-4xl md:text-5xl font-black text-white leading-tight font-display mb-6">
+                    Our Slogan & <br><span class="text-brand-gold">Philosophy</span>
+                </h2>
+                <div class="w-20 h-1 bg-gradient-to-r from-brand-maroon to-brand-gold rounded-full"></div>
+            </div>
+            
+            <!-- Right philosophy content -->
+            <div class="lg:col-span-7 space-y-6 text-gray-400 text-lg leading-relaxed" data-aos="fade-left">
+                <p class="text-white font-semibold">
+                    Our name represents more than just a brand — it reflects our philosophy.
+                </p>
+                <p>
+                    The <strong>Sparrow</strong> symbolizes determination, resilience, adaptability, intelligence, and continuous growth. Despite its small size, a sparrow overcomes challenges with courage, persistence, and confidence. These qualities define who we are as a company.
+                </p>
+                <p>
+                    At King Sparrow Group, we believe that consistent innovation, disciplined execution, and a commitment to excellence create extraordinary results. Every solution we build is designed to help businesses overcome challenges, seize new opportunities, and achieve long-term success.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Who We Are & Areas of Expertise Section -->
+<section class="py-24 bg-[#0B1120] relative border-b border-gray-800">
+    <div class="container-custom">
+        
+        <div class="text-center mb-16" data-aos="fade-down">
+            <div class="inline-block px-4 py-1.5 rounded-full border border-gray-700 bg-[#111827]/80 backdrop-blur-sm mb-6">
+                <span class="text-xs font-bold tracking-widest text-brand-blue-light uppercase">Who We Are</span>
+            </div>
+            <h2 class="text-4xl md:text-5xl font-bold text-white mb-6 font-display">Areas of <span class="text-brand-blue">Expertise</span></h2>
+            <p class="text-gray-400 text-lg max-w-2xl mx-auto">
+                King Sparrow Group is a technology-driven software company specializing in designing, developing, and delivering modern digital solutions for businesses of all sizes.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 mb-12">
+            <!-- Expertise Cards -->
+            <div data-aos="fade-up" data-aos-delay="50" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-blue/30 transition-colors">
+                <i data-lucide="server" class="w-8 h-8 text-brand-blue mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Enterprise Software Development</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="100" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-maroon/30 transition-colors">
+                <i data-lucide="cpu" class="w-8 h-8 text-brand-maroon mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Business Process Automation</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="150" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-colors">
+                <i data-lucide="cloud" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Cloud-Based Applications</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="200" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-blue/30 transition-colors">
+                <i data-lucide="smartphone" class="w-8 h-8 text-brand-blue mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Mobile App Development</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="250" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-maroon/30 transition-colors">
+                <i data-lucide="globe" class="w-8 h-8 text-brand-maroon mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Website Design & Development</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="300" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-colors">
+                <i data-lucide="refresh-cw" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Digital Transformation</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="350" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-blue/30 transition-colors">
+                <i data-lucide="shopping-bag" class="w-8 h-8 text-brand-blue mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">E-Commerce Solutions</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="400" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-maroon/30 transition-colors">
+                <i data-lucide="binary" class="w-8 h-8 text-brand-maroon mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">AI Integration</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="450" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-colors">
+                <i data-lucide="layout-dashboard" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Business Management Systems</h3>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="500" class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-blue/30 transition-colors">
+                <i data-lucide="code-2" class="w-8 h-8 text-brand-blue mb-4"></i>
+                <h3 class="text-white font-bold text-base leading-tight">Custom Software Development</h3>
+            </div>
+        </div>
+
+        <div class="text-center mt-10" data-aos="fade-up">
+            <p class="text-gray-400 leading-relaxed text-lg max-w-3xl mx-auto italic">
+                "Our multidisciplinary team combines technical expertise with business understanding, enabling us to create software that not only works flawlessly but also delivers measurable business value."
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<!-- Engineering Excellence Section -->
+<section class="py-24 bg-[#050B14] relative border-b border-gray-800">
+    <div class="container-custom">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-16 items-center">
+            
+            <div class="lg:col-span-5" data-aos="fade-right">
+                <div class="inline-block px-4 py-1.5 rounded-full border border-gray-700 bg-[#111827]/80 backdrop-blur-sm mb-6">
+                    <span class="text-xs font-bold tracking-widest text-brand-maroon uppercase">Our Core</span>
+                </div>
+                <h2 class="text-4xl md:text-5xl font-black text-white leading-tight font-display mb-6">
+                    Engineering <br><span class="text-brand-maroon-light">Excellence</span>
+                </h2>
+                <p class="text-gray-400 text-lg leading-relaxed mb-6">
+                    Engineering is at the heart of everything we do. Every architectural decision is guided by security, scalability, performance, maintainability, and international software engineering best practices.
+                </p>
+                <p class="text-gray-400 text-lg leading-relaxed">
+                    Rather than simply writing code, we engineer reliable digital ecosystems capable of supporting long-term business growth.
+                </p>
+            </div>
+
+            <div class="lg:col-span-7" data-aos="fade-left">
+                <h3 class="text-white font-bold text-xl mb-8 uppercase tracking-widest text-center lg:text-left">Development Approach Focus</h3>
+                
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="layers" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">Clean Architecture</span>
+                    </div>
+                    
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="shield-check" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">Secure Development Practices</span>
+                    </div>
+
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="zap" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">High Performance</span>
+                    </div>
+
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="expand" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">Scalable Infrastructure</span>
+                    </div>
+
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="user" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">User-Centered Design</span>
+                    </div>
+
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="cloud" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">Cloud Technologies</span>
+                    </div>
+
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="lightbulb" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">Continuous Innovation</span>
+                    </div>
+
+                    <div class="flex items-center gap-3 bg-[#111827] border border-gray-800 p-4 rounded-xl">
+                        <i data-lucide="check-circle" class="w-5 h-5 text-brand-maroon shrink-0"></i>
+                        <span class="text-white font-semibold text-sm">Quality Assurance</span>
+                    </div>
+
                 </div>
             </div>
 
@@ -45,29 +216,29 @@
 </section>
 
 <!-- Vision & Mission Section -->
-<section class="py-20 bg-[#0B1120] relative">
+<section class="py-20 bg-[#0B1120] relative border-b border-gray-800">
     <div class="container-custom">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             
             <!-- Vision Card -->
             <div data-aos="fade-up" class="bg-[#111827] rounded-[2.5rem] p-10 md:p-14 border border-gray-800 hover:border-gray-700 transition-colors">
                 <div class="w-14 h-14 rounded-2xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8">
-                    <i data-lucide="eye" class="w-7 h-7 text-gray-300"></i>
+                    <i data-lucide="eye" class="w-7 h-7 text-brand-blue"></i>
                 </div>
                 <h3 class="text-3xl font-bold text-white mb-6 tracking-tight">Our Vision</h3>
-                <p class="text-gray-400 leading-relaxed text-lg">
-                    To be the most trusted technology and growth partner in Sri Lanka and beyond, where data intelligence and engineering excellence unite to redefine what businesses can achieve in the digital era.
+                <p class="text-gray-400 leading-relaxed text-base">
+                    To become one of Sri Lanka's most trusted and innovative technology companies, delivering globally competitive software solutions while leading the digital transformation of businesses across the Eastern Province, Sri Lanka, and international markets.
                 </p>
             </div>
             
             <!-- Mission Card -->
             <div data-aos="fade-up" data-aos-delay="100" class="bg-[#111827] rounded-[2.5rem] p-10 md:p-14 border border-gray-800 hover:border-gray-700 transition-colors">
                 <div class="w-14 h-14 rounded-2xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8">
-                    <i data-lucide="target" class="w-7 h-7 text-gray-300"></i>
+                    <i data-lucide="target" class="w-7 h-7 text-brand-maroon"></i>
                 </div>
                 <h3 class="text-3xl font-bold text-white mb-6 tracking-tight">Our Mission</h3>
-                <p class="text-gray-400 leading-relaxed text-lg">
-                    To empower brands with scalable architecture, secure development, and full-funnel digital solutions that deliver measurable growth. We take ownership of your success, transforming ideas into high-performance outcomes.
+                <p class="text-gray-400 leading-relaxed text-base">
+                    To develop reliable, scalable, secure, and future-ready software solutions that empower businesses to operate smarter, grow faster, and compete confidently in the digital world through innovation, engineering excellence, and exceptional customer service.
                 </p>
             </div>
 
@@ -75,118 +246,110 @@
     </div>
 </section>
 
-<!-- Core Values Section -->
-<section class="py-24 bg-[#0B1120] relative pb-32">
+<!-- Why Choose King Sparrow Group? Section -->
+<section class="py-24 bg-[#050B14] relative border-b border-gray-800">
     <div class="container-custom">
-        
-        <div class="text-center md:text-left mb-16" data-aos="fade-down">
-            <h2 class="text-4xl md:text-5xl font-bold text-white mb-4 tracking-tight">Our Core Values</h2>
-            <p class="text-gray-400 text-lg">The principles that guide every creative decision we make.</p>
+        <div class="text-center mb-16" data-aos="fade-down">
+            <div class="inline-block px-4 py-1.5 rounded-full border border-gray-700 bg-[#111827]/80 backdrop-blur-sm mb-6">
+                <span class="text-xs font-bold tracking-widest text-brand-gold uppercase">Why Choose Us</span>
+            </div>
+            <h2 class="text-4xl md:text-5xl font-bold text-white mb-6 font-display">Why Businesses Choose <br><span class="text-brand-gold">King Sparrow Group</span></h2>
+            <p class="text-gray-400 text-lg max-w-2xl mx-auto">
+                We build scalable modern software architectures to ensure your digital ecosystem grows with your business goals.
+            </p>
         </div>
-        
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            
-            <!-- Value 1 -->
-            <div data-aos="fade-up" data-aos-delay="100" class="bg-[#111827] rounded-[2rem] p-10 border border-gray-800 hover:border-gray-700 transition-colors group">
-                <div class="w-12 h-12 rounded-xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8 group-hover:bg-brand-blue/10 transition-colors">
-                    <i data-lucide="lightbulb" class="w-6 h-6 text-brand-blue"></i>
-                </div>
-                <h4 class="text-xl font-bold text-white mb-4">Creativity & Innovation</h4>
-                <p class="text-gray-400 leading-relaxed">
-                    We challenge conventions and bring fresh ideas to every project, making your software stand out in a crowded market.
-                </p>
-            </div>
-            
-            <!-- Value 2 -->
-            <div data-aos="fade-up" data-aos-delay="200" class="bg-[#111827] rounded-[2rem] p-10 border border-gray-800 hover:border-gray-700 transition-colors group">
-                <div class="w-12 h-12 rounded-xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8 group-hover:bg-brand-blue/10 transition-colors">
-                    <i data-lucide="heart" class="w-6 h-6 text-brand-blue"></i>
-                </div>
-                <h4 class="text-xl font-bold text-white mb-4">Client Satisfaction</h4>
-                <p class="text-gray-400 leading-relaxed">
-                    Your success is the only measure of ours. We stay committed until results exceed your expectations.
-                </p>
-            </div>
-            
-            <!-- Value 3 -->
-            <div data-aos="fade-up" data-aos-delay="300" class="bg-[#111827] rounded-[2rem] p-10 border border-gray-800 hover:border-gray-700 transition-colors group">
-                <div class="w-12 h-12 rounded-xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8 group-hover:bg-brand-blue/10 transition-colors">
-                    <i data-lucide="star" class="w-6 h-6 text-brand-blue"></i>
-                </div>
-                <h4 class="text-xl font-bold text-white mb-4">Quality-Driven Work</h4>
-                <p class="text-gray-400 leading-relaxed">
-                    Every deliverable — from a single API to a full enterprise architecture — is crafted to the highest standard.
-                </p>
-            </div>
-            
-            <!-- Value 4 -->
-            <div data-aos="fade-up" data-aos-delay="400" class="bg-[#111827] rounded-[2rem] p-10 border border-gray-800 hover:border-gray-700 transition-colors group">
-                <div class="w-12 h-12 rounded-xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8 group-hover:bg-brand-blue/10 transition-colors">
-                    <i data-lucide="shield" class="w-6 h-6 text-brand-blue"></i>
-                </div>
-                <h4 class="text-xl font-bold text-white mb-4">Consistency & Reliability</h4>
-                <p class="text-gray-400 leading-relaxed">
-                    Deadlines met. Promises kept. Secure, scalable software delivered — every single time, without exception.
-                </p>
-            </div>
 
-            <!-- Value 5 -->
-            <div data-aos="fade-up" data-aos-delay="500" class="bg-[#111827] rounded-[2rem] p-10 border border-gray-800 hover:border-gray-700 transition-colors group">
-                <div class="w-12 h-12 rounded-xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8 group-hover:bg-brand-blue/10 transition-colors">
-                    <i data-lucide="trending-up" class="w-6 h-6 text-brand-blue"></i>
-                </div>
-                <h4 class="text-xl font-bold text-white mb-4">Modern Digital Thinking</h4>
-                <p class="text-gray-400 leading-relaxed">
-                    We stay ahead of industry trends so your business is always speaking the language of tomorrow.
-                </p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 mb-12">
+            <!-- 10 Reasons -->
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="users" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Experienced Software Engineers</h3>
             </div>
-            
-            <!-- Value 6 -->
-            <div data-aos="fade-up" data-aos-delay="600" class="bg-[#111827] rounded-[2rem] p-10 border border-gray-800 hover:border-gray-700 transition-colors group">
-                <div class="w-12 h-12 rounded-xl bg-[#0B1120] border border-gray-800 flex items-center justify-center mb-8 group-hover:bg-brand-blue/10 transition-colors">
-                    <i data-lucide="zap" class="w-6 h-6 text-brand-blue"></i>
-                </div>
-                <h4 class="text-xl font-bold text-white mb-4">Performance Focused</h4>
-                <p class="text-gray-400 leading-relaxed">
-                    Beautiful digital products backed by data. We measure what matters and optimize continuously for growth.
-                </p>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="smile" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Customer-Focused Development</h3>
             </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="cloud" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Scalable Cloud Solutions</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="shield" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Secure Modern Technologies</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="tag" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Affordable Pricing</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="headphones" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Continuous Technical Support</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="clock" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">On-Time Project Delivery</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="award" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Industry Best Practices</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="lightbulb" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Innovative Digital Solutions</h3>
+            </div>
+            <div class="bg-[#111827] border border-gray-800 p-6 rounded-2xl flex flex-col justify-between group hover:border-brand-gold/30 transition-all duration-300">
+                <i data-lucide="handshake" class="w-8 h-8 text-brand-gold mb-4"></i>
+                <h3 class="text-white font-bold text-sm leading-tight">Long-Term Partnership</h3>
+            </div>
+        </div>
 
+        <div class="text-center mt-12 bg-[#111827] border border-gray-800 rounded-3xl p-8 max-w-4xl mx-auto" data-aos="fade-up">
+            <p class="text-white font-bold text-xl leading-relaxed">
+                "We don't simply develop software - we build solutions that create lasting business value."
+            </p>
         </div>
     </div>
 </section>
 
-<!-- Meet Our Founder & CTA Section (Dark Theme Match) -->
-<section class="py-24 bg-[#0B1120] relative overflow-hidden border-t border-gray-800">
+<!-- Meet Our Founder, Our Commitment & CTA Section -->
+<section class="py-24 bg-[#0B1120] relative overflow-hidden">
     <div class="container-custom relative z-10">
         
+        <!-- Founder Message -->
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center mb-24">
             <!-- Left Side: Profile Card -->
             <div class="lg:col-span-5" data-aos="fade-right">
                 <div class="bg-[#111827] rounded-[2.5rem] p-10 text-center shadow-xl border border-gray-800">
                     <div class="w-48 h-48 mx-auto rounded-full overflow-hidden mb-8 border-4 border-[#0B1120]">
-                        <img src="nowfar.png" alt="Mohammad Nowfar" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500">
+                        <img src="nowfar.png" alt="Mohammed Nowfar" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500">
                     </div>
-                    <h3 class="text-2xl font-bold text-white mb-2">Mohammad Nowfar</h3>
+                    <h3 class="text-2xl font-bold text-white mb-2">Mohammed Nowfar</h3>
                     <p class="text-brand-blue font-bold tracking-wide uppercase text-sm">CEO & Founder</p>
                 </div>
             </div>
             
-            <!-- Right Side: Message -->
-            <div class="lg:col-span-7" data-aos="fade-left">
-                <h2 class="text-3xl md:text-4xl font-bold text-white leading-[1.2] mb-8 tracking-tight">
-                    A Message From The Founder
-                </h2>
-                
-                <div class="space-y-6 text-gray-400 text-lg leading-relaxed">
-                    <p>
-                        "Our Vision Is To Create Reliable, Scalable, And Future-Ready Software Solutions That Empower Businesses To Grow With Confidence."
-                    </p>
-                    <p>
-                        From The Very Beginning, Our Focus Has Been On Quality, Innovation, And Long-Term Partnerships. We Believe Technology Should Simplify Processes, Solve Real Problems, And Deliver Measurable Value.
-                    </p>
-                    <p>
-                        By Combining Modern Development Practices With A Client-First Approach, We Aim To Build Digital Products That Stand Strong Today And Adapt Seamlessly To Tomorrow.
+            <!-- Right Side: Commitment & message -->
+            <div class="lg:col-span-7 space-y-8" data-aos="fade-left">
+                <div>
+                    <h2 class="text-3xl md:text-4xl font-bold text-white leading-tight mb-4 tracking-tight">
+                        Our Commitment
+                    </h2>
+                    <div class="text-gray-400 text-base leading-relaxed space-y-4">
+                        <p>
+                            Technology is evolving rapidly, and businesses need partners who can evolve with them. King Sparrow Group remains committed to continuous learning, innovation, and delivering software that exceeds expectations.
+                        </p>
+                        <p>
+                            As your technology partner, we stand beside you from concept to deployment and beyond, providing continuous support, improvements, and strategic guidance. Together, we help businesses embrace digital transformation with confidence.
+                        </p>
+                    </div>
+                </div>
+
+                <div>
+                    <h2 class="text-3xl md:text-4xl font-bold text-white leading-tight mb-4 tracking-tight">
+                        Building the Future, Together
+                    </h2>
+                    <p class="text-gray-400 text-base leading-relaxed">
+                        At King Sparrow Group of Companies (PVT) Ltd., we believe technology should simplify complexity, unlock opportunity, and inspire growth. Whether you're a startup launching your first product, a growing business seeking automation, or an established enterprise embracing digital transformation, our team is ready to turn your vision into reality.
                     </p>
                 </div>
             </div>

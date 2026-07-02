@@ -3,26 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo isset($pageTitle) ? $pageTitle . ' | King Sparrow Group' : 'King Sparrow Group - Premium Software Solutions'; ?></title>
+    <title><?php echo isset($pageTitle) ? $pageTitle . ' | King Sparrow Group of Companies (PVT) Ltd.' : 'King Sparrow Group of Companies (PVT) Ltd. - Engineering the Future of Digital Business'; ?></title>
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="<?php echo isset($pageDescription) ? $pageDescription : 'King Sparrow Group is a product-first tech company in Sri Lanka specializing in enterprise software architecture, custom web applications, and scalable digital solutions.'; ?>">
-    <meta name="keywords" content="Software Development, Web Design, Enterprise Architecture, POS Systems, Sri Lanka Tech, King Sparrow Group, Custom ERP">
-    <meta name="author" content="King Sparrow Group">
+    <meta name="description" content="<?php echo isset($pageDescription) ? $pageDescription : 'King Sparrow Group of Companies (PVT) Ltd. bridges the gap between complex business challenges and scalable software solutions. Leading software company in the Eastern Province, Sri Lanka.'; ?>">
+    <meta name="keywords" content="Software Development, Web Design, Enterprise Architecture, POS Systems, Sri Lanka Tech, King Sparrow Group, Custom ERP, Batticaloa Software Company">
+    <meta name="author" content="King Sparrow Group of Companies (PVT) Ltd.">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kingsparrowgroups.com/">
-    <meta property="og:title" content="<?php echo isset($pageTitle) ? $pageTitle . ' | King Sparrow Group' : 'King Sparrow Group - Premium Software Solutions'; ?>">
-    <meta property="og:description" content="<?php echo isset($pageDescription) ? $pageDescription : 'King Sparrow Group is a product-first tech company in Sri Lanka specializing in enterprise software architecture, custom web applications, and scalable digital solutions.'; ?>">
+    <meta property="og:title" content="<?php echo isset($pageTitle) ? $pageTitle . ' | King Sparrow Group of Companies (PVT) Ltd.' : 'King Sparrow Group of Companies (PVT) Ltd. - Engineering the Future of Digital Business'; ?>">
+    <meta property="og:description" content="<?php echo isset($pageDescription) ? $pageDescription : 'King Sparrow Group of Companies (PVT) Ltd. bridges the gap between complex business challenges and scalable software solutions. Leading software company in the Eastern Province, Sri Lanka.'; ?>">
     <meta property="og:image" content="https://kingsparrowgroups.com/logo.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://kingsparrowgroups.com/">
-    <meta property="twitter:title" content="<?php echo isset($pageTitle) ? $pageTitle . ' | King Sparrow Group' : 'King Sparrow Group - Premium Software Solutions'; ?>">
-    <meta property="twitter:description" content="<?php echo isset($pageDescription) ? $pageDescription : 'King Sparrow Group is a product-first tech company in Sri Lanka specializing in enterprise software architecture, custom web applications, and scalable digital solutions.'; ?>">
+    <meta property="twitter:title" content="<?php echo isset($pageTitle) ? $pageTitle . ' | King Sparrow Group of Companies (PVT) Ltd.' : 'King Sparrow Group of Companies (PVT) Ltd. - Engineering the Future of Digital Business'; ?>">
+    <meta property="twitter:description" content="<?php echo isset($pageDescription) ? $pageDescription : 'King Sparrow Group of Companies (PVT) Ltd. bridges the gap between complex business challenges and scalable software solutions.'; ?>">
     <meta property="twitter:image" content="https://kingsparrowgroups.com/logo.png">
 
     <!-- Canonical URL -->

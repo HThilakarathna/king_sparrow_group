@@ -33,5 +33,6 @@ include 'includes/header.php';
 </section>
 
 <?php include 'includes/components/products-grid.php'; ?>
+<?php include 'includes/components/industries.php'; ?>
 
 <?php include 'includes/footer.php'; ?>

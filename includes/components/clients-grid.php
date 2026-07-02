@@ -70,7 +70,7 @@
             <div data-aos="fade-up" data-aos-delay="600">
                 <div class="bg-gray-900 border border-gray-800 rounded-3xl p-8 h-full flex flex-col items-center justify-center transition-all duration-500 hover:-translate-y-2 hover:border-brand-blue/50 group text-center">
                     <div class="bg-white rounded-lg p-4 mb-6 w-32 h-32 flex items-center justify-center group-hover:scale-105 transition-transform duration-500">
-                        <img src="mathumi.png" alt="Mathumi Bridal Care" class="w-full h-full object-contain">
+                        <img src="mathumi.png" alt="Mathumi Bridal Care Logo" class="w-full h-full object-contain">
                     </div>
                     <h3 class="text-sm md:text-base font-bold text-white uppercase tracking-wider group-hover:text-brand-blue transition-colors">Mathumi Bridal Care</h3>
                 </div>
@@ -78,7 +78,7 @@
             <div data-aos="fade-up" data-aos-delay="600">
                 <div class="bg-gray-900 border border-gray-800 rounded-3xl p-8 h-full flex flex-col items-center justify-center transition-all duration-500 hover:-translate-y-2 hover:border-brand-blue/50 group text-center">
                     <div class="bg-white rounded-lg p-4 mb-6 w-32 h-32 flex items-center justify-center group-hover:scale-105 transition-transform duration-500">
-                        <img src="mr.jpeg" alt="Mathumi Bridal Care" class="w-full h-full object-contain">
+                        <img src="mr.jpeg" alt="Mr Ceylon Logo" class="w-full h-full object-contain">
                     </div>
                     <h3 class="text-sm md:text-base font-bold text-white uppercase tracking-wider group-hover:text-brand-blue transition-colors">Mr Ceylon</h3>
                 </div>
@@ -86,9 +86,17 @@
             <div data-aos="fade-up" data-aos-delay="600">
                 <div class="bg-gray-900 border border-gray-800 rounded-3xl p-8 h-full flex flex-col items-center justify-center transition-all duration-500 hover:-translate-y-2 hover:border-brand-blue/50 group text-center">
                     <div class="bg-white rounded-lg p-4 mb-6 w-32 h-32 flex items-center justify-center group-hover:scale-105 transition-transform duration-500">
-                        <img src="b.png" alt="Mathumi Bridal Care" class="w-full h-full object-contain">
+                        <img src="b.png" alt="Brightlink Logo" class="w-full h-full object-contain">
                     </div>
                     <h3 class="text-sm md:text-base font-bold text-white uppercase tracking-wider group-hover:text-brand-blue transition-colors">Brightlink</h3>
+                </div>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="600">
+                <div class="bg-gray-900 border border-gray-800 rounded-3xl p-8 h-full flex flex-col items-center justify-center transition-all duration-500 hover:-translate-y-2 hover:border-brand-blue/50 group text-center">
+                    <div class="bg-black rounded-lg p-4 mb-6 w-32 h-32 flex items-center justify-center border border-gray-850 group-hover:scale-105 transition-transform duration-500">
+                        <img src="saji-logo.webp" alt="Saji Beauty Salon Logo" class="w-full h-full object-contain">
+                    </div>
+                    <h3 class="text-sm md:text-base font-bold text-white uppercase tracking-wider group-hover:text-brand-blue transition-colors">Saji Beauty Salon</h3>
                 </div>
             </div>
             

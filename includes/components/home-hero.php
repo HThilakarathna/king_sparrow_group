@@ -17,27 +17,27 @@
             <div
                 class="inline-flex items-center gap-3 px-5 py-2.5 rounded-full bg-gray-900/50 backdrop-blur-md border border-gray-800 w-max mb-5 shadow-sm">
                 <div class="w-2.5 h-2.5 rounded-full bg-gradient-to-r from-brand-maroon to-brand-gold animate-pulse"></div>
-                <span class="text-xs md:text-sm font-bold text-gray-300 tracking-wider uppercase">Next Generation Software</span>
+                <span class="text-xs md:text-sm font-bold text-gray-300 tracking-wider uppercase">Engineering The Future</span>
             </div>
 
             <div class="relative w-max">
                 <h1 class="text-[2.8rem] md:text-[3.5rem] lg:text-[4.5rem] font-black text-white tracking-tight mb-4 leading-[1.05]">
-                    Building The<br>
+                    Engineering The<br>
                     <span
                         class="inline-block h-[1.1em] overflow-hidden relative align-top min-w-[220px] md:min-w-[450px]">
                         <span class="animate-word-slide flex flex-col">
-                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-maroon via-brand-gold to-brand-maroon block h-[1.1em]">Next Generation</span>
-                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold via-brand-maroon to-brand-gold block h-[1.1em]">Scalable</span>
-                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-maroon via-brand-gold to-brand-maroon block h-[1.1em]">High Performance</span>
-                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold via-brand-maroon to-brand-gold block h-[1.1em]">Next Generation</span>
+                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-maroon via-brand-gold to-brand-maroon block h-[1.1em]">Future</span>
+                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold via-brand-maroon to-brand-gold block h-[1.1em]">Next-Gen</span>
+                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-maroon via-brand-gold to-brand-maroon block h-[1.1em]">Scalable</span>
+                            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold via-brand-maroon to-brand-gold block h-[1.1em]">Future</span>
                         </span>
                     </span><br>
-                    Of Digital Software
+                    Of Digital Business
                 </h1>
             </div>
 
             <p class="text-base md:text-lg text-gray-400 font-medium leading-relaxed mb-8 max-w-lg">
-                We Design And Develop Scalable, Secure, And High Performance Software Solutions That Empower Businesses To Grow And Succeed.
+                King Sparrow Group of Companies (PVT) Ltd. bridges the gap between complex business challenges and scalable software solutions. We engineer reliable digital ecosystems that support long-term growth.
             </p>
 
             <div class="flex flex-col sm:flex-row gap-3 mb-8">

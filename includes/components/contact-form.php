@@ -37,7 +37,7 @@
                             </div>
                             <div>
                                 <h4 class="text-sm font-black uppercase tracking-widest text-brand-blue mb-1">Email</h4>
-                                <p class="text-gray-400 text-sm leading-relaxed">Info@Kingsparrowgroups.Com</p>
+                                <p class="text-gray-400 text-sm leading-relaxed">info@kingsparrowgroups.com</p>
                             </div>
                         </div>
                     </div>

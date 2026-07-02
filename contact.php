@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if (!empty($name) && !empty($email) && !empty($message) && filter_var($email, FILTER_VALIDATE_EMAIL)) {
         
-        $to = "Info@Kingsparrowgroups.Com"; 
+        $to = "info@kingsparrowgroups.com"; 
         $email_subject = "New Contact Form Submission: $subject";
         
         $email_body = "You have received a new message from the King Sparrow Group website contact form.\n\n".
